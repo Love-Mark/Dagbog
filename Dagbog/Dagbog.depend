@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698044645 source:c:\users\markr\desktop\codeblocks\dagbog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
